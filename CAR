@@ -1,0 +1,29 @@
+/firmware/
+  freematics-oneplus/
+    src/
+    README.md
+
+/server/
+  api/
+    app.py
+    requirements.txt
+    .env.example
+  ws/
+    ws_server.py
+
+/dashboard/
+  index.html
+  assets/
+    app.js
+    styles.css
+
+/docs/
+  api.md
+  payload-schema.md
+  architecture.md
+
+/tools/
+  simulators/
+    send_sample.py
+
+.gitignore
